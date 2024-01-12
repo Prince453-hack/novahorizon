@@ -3,7 +3,7 @@ const Footer = () => {
 
   return (
     <footer className="text-center pb-4 pt-24 font-semibold text-slate-400">
-      <p>&copy; {currentYear} NovaHorizon. All rights reserved.</p>
+      <p>&copy; {currentYear} NovaHorizon. All rights reserved &copy; Random</p>
     </footer>
   );
 };
